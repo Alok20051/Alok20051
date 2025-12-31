@@ -1,4 +1,18 @@
+# 💫 Hi 👋, I'm Alok Kumar Jha
+**A Student of CSE || DA Engineer ||  from India**
 
+Email Me 👉 ✉️ **jhaa12316@gmail.com** For Collaboration/Project or Anything Else. 😊�
+
+- 🌱 **I’m currently learning:** Data Analytics(DA)
+- 👯 **I’m looking to collaborate on:** DA Models
+- 🤔 **I’m looking for help with:** Natural Language Processing(NLP) & Generetive DA
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** jhaa12316@gmail.com
+- 😄 **Pronouns:** Alok Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+
+ 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1CCTwmrvVU/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pndt_alok_jha.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alok-kumar-jha-1911413a2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ALOK3012) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jhaa12316@email.com) 
 
