@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Alok Kumar Jha
-**A Student of CSE || DA Engineer ||  from India**
+**A Student of CSE || DATA Engineer ||  from India**
 
 Email Me 👉 ✉️ **jhaa12316@gmail.com** For Collaboration/Project or Anything Else. 😊�
 
 - 🌱 **I’m currently learning:** Data Analytics(DA)
-- 👯 **I’m looking to collaborate on:** DA Models
+- 👯 **I’m looking to collaborate on:** DATA Models
 - 🤔 **I’m looking for help with:** Natural Language Processing(NLP) & Generetive DA
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** jhaa12316@gmail.com
